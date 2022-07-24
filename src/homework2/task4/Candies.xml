@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<candies>
+    <candy id="1">
+        <name>Chupa-chups</name>
+        <price>20</price>
+        <weight>15</weight>
+        <type>sugar</type>
+    </candy>
+    <candy id="2">
+        <name>Mars</name>
+        <price>40</price>
+        <weight>50</weight>
+        <type>choko</type>
+    </candy>
+    <candy id="3">
+        <name>Barbariska</name>
+        <price>5</price>
+        <weight>10</weight>
+        <type>sugar</type>
+    </candy>
+    <candy id="4">
+        <name>Chervoniy mak</name>
+        <price>10</price>
+        <weight>12</weight>
+        <type>choko</type>
+    </candy>
+</candies>
