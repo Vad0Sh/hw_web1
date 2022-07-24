@@ -82,7 +82,7 @@ public class XmlParser {
     }
 
     private static Document buildDocument() throws Exception {
-        File file = new File("src/homework1/task5/Computer.xml");
+        File file = new File("src/homework2/task2/Device.xml");
         DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
         return dbf.newDocumentBuilder().parse(file);
 

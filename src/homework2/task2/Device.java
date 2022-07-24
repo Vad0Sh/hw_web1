@@ -7,6 +7,7 @@ public class Device {
     String type;
     String critical;
 
+
     public Device(String name, int price, String origin, String type, String critical) {
         this.name = name;
         this.price = price;

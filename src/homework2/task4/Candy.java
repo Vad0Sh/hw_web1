@@ -32,6 +32,7 @@ public class Candy {
         this.price = price;
     }
 
+
     public int getWeight() {
         return weight;
     }

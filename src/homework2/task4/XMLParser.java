@@ -15,9 +15,8 @@ import java.util.List;
 
 public class XMLParser {
     public static void main(String[] args) {
-        String fileName = "F:/students.xml";
+        String fileName = "src/homework2/task4/Candies.xml";
         List<Candy> candyList = parseXMLfile(fileName);
-        // печатаем в консоль информацию по каждому студенту
         for (Candy student : candyList) {
             System.out.println(
                     student.toString());
