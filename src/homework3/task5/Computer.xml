@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<devices>
+    <device id="1">
+        <name>Video card</name>
+        <price>3000</price>
+        <origin>China</origin>
+        <type>Non peripheral</type>
+        <critical>Without this element computer does not working</critical>
+    </device>
+    <device id = "2">
+        <name>RAM</name>
+        <price>1000</price>
+        <origin>China</origin>
+        <type>Non peripheral</type>
+        <critical>Without this element computer does not working</critical>
+    </device>
+    <device id = "3">
+        <name>HDD</name>
+        <price>1500</price>
+        <origin>China</origin>
+        <type>Non peripheral</type>
+        <critical>Without this element computer does not working</critical>
+    </device>
+    <device id = "4">
+        <name>Monitor</name>
+        <price>3000</price>
+        <origin>Malaysia</origin>
+        <type>Peripheral</type>
+        <critical>Without this element computer is working</critical>
+    </device>
+    <device id ="5">
+        <name>Keyboard</name>
+        <price>300</price>
+        <origin>Japan</origin>
+        <type>Peripheral</type>
+        <critical>Without this element computer is working</critical>
+    </device>
+</devices>
